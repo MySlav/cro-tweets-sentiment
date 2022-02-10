@@ -27,19 +27,16 @@ tweet_scraper.py
 AC_RoBERTa.ipynb
 
 * classla==1.1.0
-* fastai==2.5.3
-* matplotlib==3.4.3
-* numpy==1.20.3
-* pandas==1.3.4
-* preprocessor==1.1.3
-* protobuf==3.19.4
-* regex==2021.8.3
+* fastai==1.0.61
+* matplotlib==3.2.2 
+* numpy==1.19.5 
+* pandas==1.3.5          
 * scikit_learn==1.0.2
-* text_hr==0.20
-* torch==1.10.2
+* text_hr==0.20 
+* torch==1.10.0+cu111 
 * transformers==4.16.2
 * tweet_preprocessor==0.6.0
-* wordcloud==1.8.1
+* wordcloud==1.5.0  
 
 
 
